@@ -1,14 +1,13 @@
-# Renton Technical College CSI-248
+# Renton Technical College CSI-246
 
 <br />
 
 ![Alt text](Images/logo.jpg)
 
-This repository is a part of CSI-248 at Renton Technical College.
+This repository is a part of CSI-246 at Renton Technical College.
 
 ## Guided Activity 3 - Project Creation
 
-We will complete this assignment together in class. If you are having problems with this assignment please refer to the lecture recording.
 
 1. Clone the repository to your local machine. (Do not use OneDrive for assignments in this course!)
 2. Make note of the folder where you cloned the repository.
