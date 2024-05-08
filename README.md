@@ -1,10 +1,10 @@
-# Renton Technical College CSI-246
+# Renton Technical College CSI-244
 
 <br />
 
 ![Alt text](Images/logo.jpg)
 
-This repository is a part of CSI-246 at Renton Technical College.
+This repository is a part of CSI-244 at Renton Technical College.
 
 ## Guided Activity 3 - Project Creation
 
